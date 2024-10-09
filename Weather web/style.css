@@ -1,0 +1,22 @@
+body{
+    background: url(images/bkgrnd.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    backdrop-filter: blur(5px);
+   font-family: Arial,sans-serif; 
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+}
+.weather-container {
+    text-align:center;
+    
+    box-shadow: 0 0 10;
+
+}
+.weather-container1{
+    display: flex;
+    
+
+}
+
